@@ -74,4 +74,4 @@ Este proyecto fue desarrollado como parte de un **examen de pasantía**. El obje
 
 Click the button to download:  
 
-[![Download APK](https://img.shields.io/badge/📥%20Descargar-APK-brightgreen?style=for-the-badge)]([https://github.com/SaidTovar/AppMisDatosUniguajira/raw/refs/heads/main/App/app-release.apk](https://raw.githubusercontent.com/SaidTovar/ASimpleChat/refs/heads/master/app-release.apk))  
+[![Download APK](https://img.shields.io/badge/📥%20Descargar-APK-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/SaidTovar/ASimpleChat/refs/heads/master/app-release.apk)  
