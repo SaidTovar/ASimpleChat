@@ -48,10 +48,8 @@ Este proyecto fue desarrollado como parte de un **examen de pasantía**. El obje
 ## 📸 Screenshots | Capturas
 
 | Chat List | Chat Screen | New Chat | Permissions |
-|-----------|-------------|-------------|
-| ![Chat List](Screens/Chats.png.png) | ![Chat Screen](Screens/Chat.png.png) | ![New Chat](Screens/New Chat.png.png) | ![Permissions](Screens//Permission.png) |
-
-<img src="/Mockup/1.png" width="200"/>
+|-----------|-------------|----------|-------------|
+| <img src="Screens/Chats.png.png" width="200"/> | <img src="Screens/Chat.png.png" width="200"/> | <img src="Screens/New Chat.png.png" width="200"/> | <img src="Screens/Permission.png" width="200"/> |
 
 ---
 
