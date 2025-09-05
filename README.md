@@ -49,7 +49,7 @@ Este proyecto fue desarrollado como parte de un **examen de pasantía**. El obje
 
 | Chat List | Chat Screen | New Chat | Permissions |
 |-----------|-------------|----------|-------------|
-| <img src="Screens/Chats.png.png" width="200"/> | <img src="Screens/Chat.png.png" width="200"/> | <img src="Screens/New Chat.png.png" width="200"/> | <img src="Screens/Permission.png" width="200"/> |
+| <img src="Screens/Chats.png" width="200"/> | <img src="Screens/Chat.png" width="200"/> | <img src="Screens/New Chat.png" width="200"/> | <img src="Screens/Permission.png" width="200"/> |
 
 ---
 
