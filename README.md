@@ -51,6 +51,8 @@ Este proyecto fue desarrollado como parte de un **examen de pasantía**. El obje
 |-----------|-------------|-------------|
 | ![Chat List](docs/screenshots/chat_list.png) | ![Chat Screen](docs/screenshots/chat_screen.png) | ![Permissions](docs/screenshots/permissions.png) |
 
+<img src="/Mockup/1.png" width="200"/>
+
 ---
 
 ## 🚀 Getting Started | Primeros Pasos
@@ -67,3 +69,9 @@ Este proyecto fue desarrollado como parte de un **examen de pasantía**. El obje
 1. Clone the repository:  
    ```bash
    git clone https://github.com/SaidTovar/ASimpleChat.git
+
+2. Download the app  
+
+Click the button to download:  
+
+[![Download APK](https://img.shields.io/badge/📥%20Descargar-APK-brightgreen?style=for-the-badge)]([https://github.com/SaidTovar/AppMisDatosUniguajira/raw/refs/heads/main/App/app-release.apk](https://raw.githubusercontent.com/SaidTovar/ASimpleChat/refs/heads/master/app-release.apk))  
