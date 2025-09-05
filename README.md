@@ -1,7 +1,8 @@
 # 📱 A Simple Chat - Kotlin SMS App  
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.2.10-blueviolet?logo=kotlin&logoColor=white)](https://kotlinlang.org/) 
-[![Android](https://img.shields.io/badge/Android-12+-3DDC84?logo=android&logoColor=white)](https://developer.android.com/)  
+[![Android Compile](https://img.shields.io/badge/compileSdk-36-brightgreen?logo=android&logoColor=white)](https://developer.android.com/studio/releases/platforms)  
+[![Android Min](https://img.shields.io/badge/minSdk-28-orange?logo=android&logoColor=white)](https://developer.android.com/studio/releases/platforms)  
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 
 ---
