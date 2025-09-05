@@ -72,6 +72,4 @@ Este proyecto fue desarrollado como parte de un **examen de pasantía**. El obje
 
 2. Download the app  
 
-Click the button to download:  
-
-[![Download APK](https://img.shields.io/badge/📥%20Descargar-APK-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/SaidTovar/ASimpleChat/refs/heads/master/app-release.apk)  
+[![Download APK](https://img.shields.io/badge/📥%20Download-APK-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/SaidTovar/ASimpleChat/refs/heads/master/app-release.apk)  
