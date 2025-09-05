@@ -47,9 +47,9 @@ Este proyecto fue desarrollado como parte de un **examen de pasantía**. El obje
 
 ## 📸 Screenshots | Capturas
 
-| Chat List | Chat Screen | Permissions |
+| Chat List | Chat Screen | New Chat | Permissions |
 |-----------|-------------|-------------|
-| ![Chat List](docs/screenshots/chat_list.png) | ![Chat Screen](docs/screenshots/chat_screen.png) | ![Permissions](docs/screenshots/permissions.png) |
+| ![Chat List](Screens/Chats.png.png) | ![Chat Screen](Screens/Chat.png.png) | ![New Chat](Screens/New Chat.png.png) | ![Permissions](Screens//Permission.png) |
 
 <img src="/Mockup/1.png" width="200"/>
 
