@@ -66,4 +66,4 @@ Este proyecto fue desarrollado como parte de un **examen de pasantía**. El obje
 ### Installation | Instalación
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/asimplechat.git
+   git clone https://github.com/SaidTovar/ASimpleChat.git
